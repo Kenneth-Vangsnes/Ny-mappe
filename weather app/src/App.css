@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card-container {
+  background-color: orange;
+  height: 400px;
+  width: 400px;
+  border-radius: 8px;
+}
+
+.card-title {
+  font-size: 24px;
+}
